@@ -5,7 +5,7 @@ Would you like to show Only the first part of a news cutting it after the first 
 # Description
 This mod will cut every news over your portal after the first image (so you must include an image using the img bbcode [img]sample.png[/img] in every news).
 
-This mod also require a modification to the img bbcode, to be sure to not cut the news after a smile.
+This mod also require a modification to the img bbcode, to be sure to not cut the news after other images (like a smile).
 
 The Modification to img BBcode also include a function to use an alternative image if the original link is broken.
 
