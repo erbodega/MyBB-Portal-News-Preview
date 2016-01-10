@@ -2,7 +2,7 @@
  Copyright Notice 
 ========================================================================================================================================
 
-This plugin is written by me, bodega, and i hope that everything is fine. I tested it several time over a new installation of MyBB 1.8.6 and everything is good.
+This plugin is written by me, bodega, and everything should be fine. I tested it several time over a new installation of MyBB 1.8.6 and haven't ever encountered a problem.
 
 You can find more web development related content on my GitHub profile: erbodega.github.io
 
